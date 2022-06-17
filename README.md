@@ -1,5 +1,7 @@
 # VueJsTrial
 
+<img src="https://user-images.githubusercontent.com/88915966/174215400-3a20d6fa-4ca6-440c-847b-810430f0a464.jpg" width="500">
+
 ### node.jsインストール
 #### Visual Studioでビルド時にエラーが発生する場合の対処法
 ~~~
